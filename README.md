@@ -20,7 +20,7 @@ Qualitative researchers face a persistent challenge during sensemaking: **confir
 
 Standard LLMs can generate alternative groupings, but they pattern-match from training data — they don't *reason through* why a grouping might be wrong. When a researcher asks "challenge my clustering," the LLM produces plausible-sounding alternatives without transparent deliberation.
 
-Commercial tools (Dovetail, Notably, Atlas.ti) optimize for **premature closure** — giving the user a finished codebook. This undermines qualitative reflexivity and exacerbates automation bias: the "Automation Paradigm."
+Commercial tools — Dovetail, Notably, Atlas.ti, NVivo, MAXQDA, Delve, Condens, Marvin, Looppanel, Thematic — all follow the same paradigm: AI generates codes and themes, researcher reviews and accepts. They optimize for premature closure. This undermines qualitative reflexivity and exacerbates automation bias: the "Automation Paradigm."
 
 **Parallax asks:** does a *reasoning model* — one that shows its chain-of-thought — produce meaningfully better critique than a standard LLM? And does seeing the AI's reasoning process act as a cognitive forcing function, or does its authoritative verbosity create an illusion of rigor?
 
